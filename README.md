@@ -87,6 +87,15 @@ Pizza-Sales-Analytics-Dashboard/
 ```
 
 ## Dashboard Preview
+## Dashboard Screenshots
+
+### Home Page Dashboard
+
+![Home Dashboard](Screenshot_of_the_project/Home_page_dashboard.png)
+
+### Best & Worst Sellers Dashboard
+
+![Best and Worst Sellers](Screenshot_of_the_project/Best_and_worst_sellers_page.png)
 
 
 
